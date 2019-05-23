@@ -1,6 +1,6 @@
 # pruebasExamen
 
 probando
-prueba desde comandos
+prueba conflicto
 
 prueba desde nuevarama
